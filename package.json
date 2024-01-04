@@ -1,0 +1,21 @@
+{
+  "name": "threejs-journey-exercise",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "lil-gui": "^0.17.0",
+    "puppeteer": "^21.5.0",
+    "three": "^0.148.0",
+    "three-fbxloader-offical": "^1.0.0",
+    "three-gltf-loader": "^1.111.0"
+  }
+}
