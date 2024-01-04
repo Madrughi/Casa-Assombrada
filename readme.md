@@ -15,7 +15,7 @@ https://haunted-house-three-js-eight.vercel.app/ 🚀
 Clone the project
 
 ```bash
-  git clone https://github.com/Singh233/Haunted-House-ThreeJs.git
+   https://github.com/Madrughi/Casa-Assombrada.git
 ```
 
 Go to the project directory
