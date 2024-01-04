@@ -20,10 +20,6 @@ Clone the project
 
 Go to the project directory
 
-```bash
-  cd Haunted-House-ThreeJs
-```
-
 Install the packages
 
 ```bash
@@ -35,29 +31,6 @@ Start the server
 ```bash
   npm run dev
 ```
-
-
-
-
-
-
-
-
-## 🛠️ Possible because 
-
- - [ThreeJs Journey](https://threejs-journey.com/) Beautiful Course by - Bruno Simon 💯
-
-
-
-## 🚀 About Me
-I'm an Aspiring full stack developer...
-Love to create, design and build cool projects 😎 and have passion for creating innovative solutions to complex problems using cutting-edge technologies. I have a strong understanding of both front-end and back-end development, and constantly seeking to improve my skills in these areas.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at sanambir123@gmail.com
-
 
 ## Author
 
